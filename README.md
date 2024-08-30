@@ -1,8 +1,8 @@
-# Teste Técnico para Estágio na Previsio Engenharia
+# Teste Técnico para Estágio na Target
 
 ## Visão Geral
 
-Este repositório contém as soluções para o teste técnico da vaga de estágio na área de Desenvolvimento de Software na Previsio Engenharia. O teste é composto por vários programas Java que abordam diferentes problemas algorítmicos e lógicos.
+Este repositório contém as soluções para o teste técnico da vaga de estágio na área de Desenvolvimento  na Target. O teste é composto por vários programas Java que abordam diferentes problemas algorítmicos e lógicos.
 
 ## Projetos
 
