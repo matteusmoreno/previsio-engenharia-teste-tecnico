@@ -37,4 +37,5 @@ public class FibonacciChecker {
 
         scanner.close();
     }
+
 }

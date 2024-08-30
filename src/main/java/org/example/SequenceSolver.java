@@ -33,6 +33,7 @@ public class SequenceSolver {
         int nextF = 20; // Sequence with consecutive numbers after 16
         System.out.println("f) The next number is: " + nextF);
     }
+
 }
 
 

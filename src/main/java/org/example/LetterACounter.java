@@ -25,4 +25,5 @@ public class LetterACounter {
 
         scanner.close();
     }
+
 }

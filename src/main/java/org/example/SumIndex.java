@@ -11,4 +11,5 @@ public class SumIndex {
 
         System.out.println("The final value of SUM is: " + SUM);
     }
+
 }
